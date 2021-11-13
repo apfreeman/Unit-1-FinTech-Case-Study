@@ -143,11 +143,26 @@ Volante has an impressive number of metrics which demonstrate it is a market lea
 
 ## Recommendations
 
+I would suggest that their core business does not change they just expand their products and services.   
+
+According one of the worlds largest professional services companies PwC - 
+
+[***Global cashless payment volumes are set to increase by more than 80% from 2020 to 2025, from about 1tn transactions to almost 1.9tn, and to almost triple by 2030***](https://www.pwc.com/gx/en/industries/financial-services/publications/financial-services-in-2025/payments-in-2025.html)
+
+![](https://www.pwc.com/gx/en/financial-services/fs-2025/pwc-future-of-payments-web-charts2.png)
+
+Volante are a facilitator of such global exchanges and as such are positioned well to take advantage of further growth in this domain. What could potentially change though is the definition of what a global exchange is. 
+
+Volante has been excellent at creating consistent entry points for a myriad of financial transaction types. I'm suggesting they add blockchain technologies and crypto currencies to thier list of services. While blockchain enables distributed banking and essesntially peer to peer transacting, Volante plays in the enterprise space of which there is significal regulation and reporting requirement. There is an opportunity to secure and track b2b payments using blockchain, as well as establing a payment system that can cater for crypto currencies specifically for large regulated enterpises.
+
+I think it would benifit Volante as it would not only expose them to future technology related to crypto currency payments and blockchain business logic but would also position them ready to utilise the technology in the future when more applications for it become available. No one can predict the future or accuratley convey the impact blcokchain will have on world wide payment systems and business process execution logic. I think conciously developing and looking for opportunites within the Volante Technonlgy stack to push in these areas is key to being ready to quickly identify and move on future opportunities 
+
+I believe investment in such technologies are appropriate as they are just the next iteration of "Payments". Volante has been able to move with the times and incorporate solutions for legacy systems like Wire\RTGS, ACH,SWIFT and realtime payments. I think its appropriate that Volante consider emerging technoliges for the transfer of funds using an enterprise banking lens, which will be different from the consumer and personal lens. 
 
 ## Report Presentation
 ### Written by 
 - **Adam Freeman** 
-- adam.freeman@outlook.com.au
-- GitHub Userid [apfreeman](https://github.com/apfreeman)
-- [Case Sudy File can be found here](https://github.com/apfreeman/Unit-1-Homework-Assignment-FinTech-Case-Study#readme)
+- **MailTo** - adam.freeman@outlook.com.au
+- **GitHub** - [apfreeman](https://github.com/apfreeman)
+- **Case Study File Location** - [Here](https://github.com/apfreeman/Unit-1-Homework-Assignment-FinTech-Case-Study#readme)
 
